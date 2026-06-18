@@ -38,3 +38,6 @@ Riverside시 시민 서비스 디렉터로서, 서비스 제공과 시민 만족
 ## 참고 자료
 
 - [Using Amazon Quick Research](https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/using-quick-research.html)
+
+
+[![Next](https://github.com/noenemy/kiro-cli/raw/main/03.mcp-server/images/next.png)](Lab1-reviewing-research-findings.md)
