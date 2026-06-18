@@ -54,5 +54,5 @@ https://docs.aws.amazon.com/quick/
 
 ## 워크샵 시작하기
 
-https://github.com/noenemy/quick-workshop/blob/main/01.%20Chat%20Agents/Lab1-unified-chat.md
 
+[![Next](https://github.com/noenemy/kiro-cli/raw/main/03.mcp-server/images/next.png)](./01.%20Chat%20Agents/README.md)
