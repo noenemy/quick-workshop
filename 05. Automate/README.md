@@ -6,7 +6,12 @@
 
 1시간 이내에 실제 사용 사례를 위한 에이전트 기반 자동화를 개발하는 방법을 알고 돌아갈 수 있습니다.
 
-[워크샵 자료 다운로드 (zip)]
+# 실습 파일 다운로드
+
+[워크샵 자료 다운로드 (zip)](https://static.us-east-1.prod.workshops.aws/public/2d732a4d-ab12-40bd-b4a5-beecb2279019/static/sample-kyc-documents.zip)
+
+
+이 zip 파일에는 워크샵 실습 5 - Quick Automate에 필요한 문서와 데이터 파일이 포함되어 있습니다.
 
 아카이브를 로컬에 압축 해제합니다. `sample-kyc-documents/` 폴더에 다음 내용이 표시되어야 합니다:
 
