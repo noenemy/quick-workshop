@@ -174,4 +174,4 @@ Quick Sight의 자연어 접근 방식:
 
 > ℹ️ **참고**: 생성한 시각화는 Quick Sight의 편집 도구를 사용하여 더 세밀하게 조정할 수 있지만, 자연어 접근 방식은 추가 수정이 필요 없는 훌륭한 출발점을 제공합니다.
 
-[![Next](https://github.com/noenemy/kiro-cli/raw/main/03.mcp-server/images/next.png)](Lab1-build-dashboard.md)
+[![Next](https://github.com/noenemy/kiro-cli/raw/main/03.mcp-server/images/next.png)](Lab2-create-your-flow.md)
