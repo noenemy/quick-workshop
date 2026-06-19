@@ -16,6 +16,8 @@ Riverside시 시민 서비스 디렉터로서, 모범 사례와 전략적 가이
    - **Attach files**: 대화에 문서를 직접 업로드
    - **Flows**: 자동화된 워크플로우 및 반복 작업 실행
 
+<img src="./images/1-1.png">
+
 ## 단계 2: General Knowledge 모드 선택
 
 1. 채팅 인터페이스에서 **All data**를 선택합니다.
