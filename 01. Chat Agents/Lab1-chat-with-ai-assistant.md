@@ -77,3 +77,5 @@ General Knowledge 채팅을 통해 다음이 가능합니다:
 
 > ⚠️ 생성형 AI의 비결정적(non-deterministic) 특성으로 인해 동일한 쿼리에 대해 정확히 같은 응답을 받지 못할 수 있으나, 쿼리에 관련된 응답을 기대할 수 있습니다.
 
+[![Next](https://github.com/noenemy/kiro-cli/raw/main/03.mcp-server/images/next.png)](Lab2-document-upload-and-analysis.md)
+

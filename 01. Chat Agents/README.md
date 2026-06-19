@@ -31,4 +31,4 @@ Amazon Quick의 통합 채팅은 AI 어시스턴트와 상호작용하고 조직
 
 이 모듈에서는 Quick의 채팅 인터페이스가 AI 기반 인사이트에 즉각적으로 접근하는 방법을 확인합니다. 자연어로 질문하는 방법과 즉시 분석을 위해 문서를 업로드하는 방법을 배우게 됩니다. 이러한 기능은 기술적 전문성이나 긴 문서 검토 과정의 필요성을 제거합니다.
 
-[![Next](https://github.com/noenemy/kiro-cli/raw/main/03.mcp-server/images/next.png)](Lab1-document-upload-and-analysis.md)
+[![Next](https://github.com/noenemy/kiro-cli/raw/main/03.mcp-server/images/next.png)](Lab1-chat-with-ai-assistant.md)
