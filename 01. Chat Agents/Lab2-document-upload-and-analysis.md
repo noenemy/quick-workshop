@@ -6,9 +6,13 @@
 
 1. 채팅 인터페이스에서 **New conversation**을 선택하여 새 대화를 시작합니다.
 
+<img src="./images/1-2.png">
+
 2. **Attach files** 아이콘을 선택합니다. 또는 파일을 대화창에 직접 드래그 앤 드롭할 수도 있습니다.
 
 3. 워크샵 자료에서 `service_request_policy.pdf`를 선택합니다.
+
+<img src="./images/1-3.png">
 
 4. **Add to chat**을 클릭합니다.
 
