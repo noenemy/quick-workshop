@@ -103,4 +103,4 @@ What are the limitations and capabilities when uploading files in a conversation
 이 기능은 경영진이 조직 지식과 상호작용하는 방식을 혁신하여, 정적 문서를 대화형으로 쿼리 가능한 리소스로 전환합니다.
 
 
-[![Next](https://github.com/noenemy/kiro-cli/raw/main/03.mcp-server/images/next.png)](Lab2-chat-with-ai-assistant.md)
+다음 실습을 위해 **02. Spaces**로 이동해주세요.
