@@ -1,4 +1,4 @@
-# 2. 자동화 저작하기
+# 3. Automate 만들기
 
 이 섹션에서는 Amazon Quick Automate를 사용하여 포괄적인 KYC(Know Your Customer) 자동화 워크플로우를 생성합니다. 이 5단계 워크플로우는 문서 처리, 불일치 분석, 부정적 미디어 스크리닝, 보고서 생성을 자동화합니다.
 
@@ -76,7 +76,7 @@ Agent Instructions:
 ### 구성
 
 **Add - Process Step:**
-- **Title**: `Discrepency Analysis`
+- **Title**: `Discrepancy Analysis`
 - **Description**: `Agent to perform a cross document discrepancy analysis`
 
 ### Agent 2 구성

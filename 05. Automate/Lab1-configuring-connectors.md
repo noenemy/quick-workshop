@@ -11,7 +11,6 @@
 - `deploy_connectors.sh` — 스택을 배포하는 헬퍼 스크립트
 - `connector_creation.yaml` — S3 및 Textract 커넥터를 생성하는 CloudFormation 템플릿
 
-아직 번들을 다운로드하지 않았다면 [워크샵 자료 다운로드](./00-download-workshop-materials.md) 페이지에서 받고 여기로 돌아오세요.
 
 ## 단계 2: CloudShell에서 커넥터 배포
 

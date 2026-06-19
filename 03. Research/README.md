@@ -1,4 +1,4 @@
-# 모듈 3: Research Agent
+# 모듈 3: Quick Research
 
 Amazon Quick Research는 여러 데이터 소스를 분석하고 상세한 보고서를 생성하여 포괄적인 리서치를 수행할 수 있게 해주는 Amazon Quick의 기능입니다. Quick Research는 인공지능을 활용하여 웹 검색, 업로드된 파일, 연결된 데이터 Space를 포함한 다양한 소스에서 정보를 수집, 분석, 종합하는 것을 돕습니다.
 
