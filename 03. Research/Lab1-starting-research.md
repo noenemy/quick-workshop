@@ -22,6 +22,9 @@ What are the best practices for reducing citizen service request resolution time
 - 리서치의 의도된 용도 언급
 - 관련된 경우 시간 프레임 지정 (예: "최근 트렌드", "2025년 데이터")
 
+<img src="./images/3-1.png">
+
+
 Research mode에서 **Deep**을 선택했는지 확인합니다. 이를 통해 다음 모듈에서 사용되는 "Understand Statement Analysis" 기능이 활성화됩니다.
 
 ## 단계 3: 리서치 자료 선택

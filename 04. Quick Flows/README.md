@@ -41,5 +41,5 @@ Riverside시 시민 서비스 디렉터로서, 시의회에 보내는 주간 서
 운영 효율성, 표준화, 더 높은 가치의 업무를 위한 직원 시간 확보와 같은 전략적 목표를 Quick Flows가 어떻게 지원하는지 이해하는 데 집중합니다.
 
 
-[![Next](https://github.com/noenemy/kiro-cli/raw/main/03.mcp-server/images/next.png)](Lab1-trigger-your-flow.md)
+[![Next](https://github.com/noenemy/kiro-cli/raw/main/03.mcp-server/images/next.png)](Lab1-create-your-flow.md)
 
