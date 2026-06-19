@@ -57,12 +57,12 @@ https://docs.aws.amazon.com/quick/
 
 이 워크샵에는 연습 전반에 걸쳐 사용할 다양한 파일과 리소스가 포함되어 있습니다. 편의를 위해 모든 워크샵 자료를 단일 다운로드로 제공합니다.
 
-## 모든 워크샵 자료 다운로드
+## 워크샵 자료 다운로드
 
 [워크샵 자료 다운로드 (zip)](https://static.us-east-1.prod.workshops.aws/22fcb790-3ed0-4be9-8e71-0cfb69291817/static/data/workshop-materials.zip?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy8yMmZjYjc5MC0zZWQwLTRiZTktOGU3MS0wY2ZiNjkyOTE4MTcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MjM2MjcxMn19fV19&Signature=BXd4wEIOn6ZwNlBxfEGH2VejKulajQBm3zQtcskEkn2y2tmIcGxwHmeZSb3ybvDEgJjQ%7EBJHmFZ5lNyAfKyzJtEl3xyI-E3M-9jyTo1MkBVNjsPiIVkrktep0ksbUNWTmN5D%7EYuH5ICBnNDrSkMmNOlGlG-ZnKcjubR%7EUxm1bFsfxrrj5dvAsggeJFvDwrH-1kIHUWVAkYZHAVB1j5aeIzbtD5fzyZzpSJW8sPmnoYWnYqoTkGMQCuTwvyZYTpGAgtKxb0slguJI9Pw1MccL6hBRcQrVc8iyD79hxig4Lh59aGsvLiJKjmb0pgFVr6Z43ycfYH4l%7ERxLVs9iCIOyJw__)
 
 
-이 zip 파일에는 워크샵에 필요한 모든 문서와 데이터 파일이 포함되어 있습니다.
+이 zip 파일에는 워크샵 실습 1-4에 필요한 문서와 데이터 파일이 포함되어 있습니다.
 
 ### 정책 문서 (Spaces 및 일반 워크샵 사용용):
 
