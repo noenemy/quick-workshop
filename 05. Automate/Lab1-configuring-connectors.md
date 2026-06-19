@@ -68,11 +68,17 @@ chmod a+x deploy_connectors.sh
 
 대시보드에서 **Manage Quick** 페이지로 이동합니다.
 
+<img src="./images/5-1.png">
+
 ### 4.2 AWS Actions 열기
 
 **AWS Actions**를 클릭하여 커넥터 목록을 확인합니다.
 
+<img src="./images/5-2.png">
+
 S3 커넥터와 Textract 커넥터가 모두 나열되고 사용 가능한 상태여야 합니다.
+
+<img src="./images/5-3.png">
 
 ## 다음 단계
 
