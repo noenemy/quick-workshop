@@ -116,4 +116,4 @@
 
 Flow가 실행되어 주간 서비스 요청 요약 보고서를 생성합니다.
 
-[![Next](https://github.com/noenemy/kiro-cli/raw/main/03.mcp-server/images/next.png)](Lab2-trigger-your-flow.md)
+[![Next](https://github.com/noenemy/kiro-cli/raw/main/03.mcp-server/images/next.png)](Lab3-trigger-your-flow.md)
