@@ -38,7 +38,7 @@ ESEP 프로그램 중에 하나로서 이 실습에서는 Amazon Quick을 활용
 - Lab 2 - Spaces (Spaces와 지식 관리, 시민 서비스 Space 탐색)
 - Lab 3 - Research (Research Agent, 리서치 결과 검토)
 - Lab 4 - Quick Flows (자동화 워크플로우 생성, 플로우 트리거)
-- Lab 5 - Automate (Quick Sight 분석, 자연어 기반 대시보드 구축)
+- Lab 5 - Automate (Quick Automate 예제 만들기)
 
 Amazon Quick은 비즈니스 사용자가 자연어로 조직 데이터에 질문하고, AI 기반 인사이트를 통해 전략적 의사결정을 내릴 수 있도록 지원하는 통합 분석 플랫폼입니다. 통합 채팅, Spaces, Research, Quick Flows, Quick Sight 등 다양한 기능을 통해 다음을 수행할 수 있습니다.
 
